@@ -165,6 +165,9 @@ ro.egl.blobcache.multifile_limit=33554432
 # FS-verity
 ro.apk_verity.mode=2
 
+# Fastbootd
+ro.fastbootd.available=true
+
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
 
