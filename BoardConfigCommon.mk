@@ -11,6 +11,7 @@ COMMON_PATH := device/xiaomi/sdm660-common
 PRODUCT_USES_QCOM_HARDWARE := true
 PRODUCT_BOARD_PLATFORM := sdm660
 TARGET_BOARD_PLATFORM := sdm660
+TARGET_ENFORCES_QSSI := true
 
 # A/B
 ifeq ($(ENABLE_AB), true)
