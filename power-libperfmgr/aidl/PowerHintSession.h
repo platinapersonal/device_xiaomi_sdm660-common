@@ -109,7 +109,8 @@ class PowerHintSession : public BnPowerHintSession {
   private:
     void updateUniveralBoostMode();
     int setSessionUclampMin(int32_t min);
-    std::string getIdString() const;
+    int64_t convertWorkDurationToBoostByPid(const std::vector<WorkDuration> &actualDurations);
+    void traceSessionVal(char const *identifier, int64_t val) const;
     const std::shared_ptr<AdaptiveCpu> mAdaptiveCpu;
     AppHintDesc *mDescriptor = nullptr;
     sp<StaleTimerHandler> mStaleTimerHandler;
@@ -117,6 +118,7 @@ class PowerHintSession : public BnPowerHintSession {
     sp<MessageHandler> mPowerManagerHandler;
     std::mutex mSessionLock;
     std::atomic<bool> mSessionClosed = false;
+    std::string mIdString;
 };
 
 }  // namespace pixel
