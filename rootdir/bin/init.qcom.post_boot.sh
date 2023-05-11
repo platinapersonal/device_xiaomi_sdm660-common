@@ -2852,7 +2852,7 @@ case "$target" in
             echo 120 > /proc/sys/kernel/sched_group_downmigrate
 
             # Report max frequency to unity tasks
-            echo "UnityMain,libunity.so" > /proc/sys/kernel/sched_lib_name
+            echo "libunity.so,com.miHoYo.,libfb.so,liblogic.so,libssgamesdkcronet.so,libil2cpp.so,com.activision." > /proc/sys/kernel/sched_lib_name
             echo 255 > /proc/sys/kernel/sched_lib_mask_force 255
 
             #if the kernel version >=4.14,use the schedutil governor
