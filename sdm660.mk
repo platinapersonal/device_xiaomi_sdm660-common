@@ -63,6 +63,9 @@ PRODUCT_PACKAGES_DEBUG += \
     update_engine_client
 endif
 
+# Common Tree Path
+COMMON_PATH := device/xiaomi/sdm660-common
+
 # Audio
 PRODUCT_PACKAGES += \
     android.hardware.audio@7.1-impl \
@@ -587,6 +590,9 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/xiaomi \
     hardware/lineage/interfaces/power-libperfmgr \
     hardware/qcom-caf/common/libqti-perfd-client
+
+QCOM_SOONG_NAMESPACE := \
+    $(COMMON_PATH)/qcom-caf
 
 # Speed profile services and wifi-service to reduce RAM and storage
 PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
