@@ -393,7 +393,8 @@ PRODUCT_PACKAGES += \
     SDM660SettingsOverlay \
     SDM660SettingsProviderOverlay \
     SDM660SystemUIOverlay \
-    SDM660TelephonyOverlay
+    SDM660TelephonyOverlay \
+    SDM660WifiOverlay
 
 # RRO configuration
 TARGET_USES_RRO := true
@@ -607,7 +608,6 @@ PRODUCT_PACKAGES += \
     hostapd_cli \
     libwifi-hal-qcom \
     libwpa_client \
-    WifiOverlay \
     wpa_supplicant \
     wpa_supplicant.conf
 
