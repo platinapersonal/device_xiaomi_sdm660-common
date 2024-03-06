@@ -79,6 +79,9 @@ debug.sf.enable_transaction_tracing=false
 ro.surface_flinger.max_frame_buffer_acquired_buffers=3
 ro.surface_flinger.max_virtual_display_dimension=4096
 
+# Filesystem
+fs_mgr.overlayfs.prefer_cache_backing_storage=true
+
 # Fling
 ro.min.fling_velocity=160
 ro.max.fling_velocity=20000
