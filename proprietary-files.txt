@@ -367,6 +367,12 @@ vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so|6844e1cc0e1fe004faa727b0fa32a
 vendor/lib64/vendor.qti.latency@2.0.so|3327f66e62fda73bf644c459f5f8f27dc80cb6d7
 vendor/lib64/vendor.qti.latency@2.1.so|0b0860c3d0e2afdbd517d24bd784b4593ae23ef3
 
+# ConsumerIR (lirc) - from jason V12.0.1.0.PCHCNXM
+vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.lirc.sdm660.so|8c614f98e2a42b5ba9e148c01b3d69e7fb59ce1d
+
+# ConsumerIR (spi) - from jasmine V11.0.28.0.QDIMIXM
+vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.spi.sdm660.so|d1f275a91557dfab52e82906986c5094fe078722
+
 # DPM - from LA.QSSI.14.0.r1-12000-qssi.0
 framework/tcmclient.jar|4e1dfaa243c67fec31b5a44086c9c417892761ae
 system_ext/bin/dpmd|94349101b52498554d12d3622e2b2dbd1263558d
