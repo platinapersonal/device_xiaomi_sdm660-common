@@ -1097,21 +1097,21 @@ vendor/lib64/libscveObjectTracker_stub.so|c8d4ee447045e0bcd4bc9fe101ff3ad5089250
 vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so|20dca87cf73b1e69b1650aff7c5c72f9e0b74fe0
 vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so|aab964d5e947d461c190aa3841d136dfa0fd9b44
 
-# Sensors - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
--system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar|476196a495be445ab56745461e08c5f95cce0da6
-system_ext/lib/vendor.qti.hardware.sensorscalibrate@1.0.so|7c3431524dcc03b1bf011cdddfa428b1a58a0617
-system_ext/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|6e5297465a8391eba19476fd582165d53f0d132c
-vendor/bin/sensors.qti|5a036a4eaae482dd52e0535df68f9c5c5ffe274a
-vendor/lib/libsensor1.so|32b0239dac99701a96c361b6871bdd7a1f8cc29f
-vendor/lib/libsensor_reg.so|287a4774e7861f884c78ebcf4174bb04ca94aff6
-vendor/lib/libssc_default_listener.so|21a5b946f78605a1e5d49b34e79a69f3aeb350dd
-vendor/lib/sensor_calibrate.so|37be808f1ef472e24cdc5836ce6d68e7720131f6
-vendor/lib/sensors.ssc.so|786eccadc9e1f29568c58575ef61e760a41a499b
-vendor/lib64/libsensor1.so|821460aa9e9b4004f83917d699f562b4578c37cd
-vendor/lib64/libsensor_reg.so|60d6e47b01d2c097ec7ffab08f01333083f72c53
-vendor/lib64/libssc_default_listener.so|2c242c49c601088e3a403ab56c60b841938811c8
-vendor/lib64/sensor_calibrate.so|f3e7652f8821710ffc301c8e6f886a76d0a036b0
-vendor/lib64/sensors.ssc.so|214263957659adc0a9e5069d0b50245c850600dd
+# Sensors - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+-system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar|662159c62a683a2096a73adf1d52b1074c1ab960
+system_ext/lib/vendor.qti.hardware.sensorscalibrate@1.0.so|50e57a9ffcf1483061fef4e48e8a831f61886ba4
+system_ext/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|b381c166cb399c3fec5163f7128f2de305c8004d
+vendor/bin/sensors.qti|362f2e678dfb63edf247f79544e2704794c8a470
+vendor/lib/libsensor1.so|084f1bb499dfca2b2a23fd19d4ff4c45dab26293
+vendor/lib/libsensor_reg.so|8b1e757e0fbdfd740c6b6513473902d36d2235bc
+vendor/lib/libssc_default_listener.so|ddc720778e4610fd8b14b2bc92d9ec7b37682992
+vendor/lib/sensor_calibrate.so|4311d8c24caa052d4b4cef0653600251ec96c052
+vendor/lib/sensors.ssc.so|af64cf583a08ea8386516f12bd25a27b18867b26
+vendor/lib64/libsensor1.so|2da5e1b7a8f91c03ded3060554a9229a083fc783
+vendor/lib64/libsensor_reg.so|48241c0e1c64015710b91146b6a9da3fbfb48f53
+vendor/lib64/libssc_default_listener.so|a5c2d06b2ade50c9481feb42605d9cb3693eafb2
+vendor/lib64/sensor_calibrate.so|42c40d7ec8a7f989be844d4dc699e2cce4cf8514
+vendor/lib64/sensors.ssc.so|7a55a88858acd73fa9a44a99ed49e86baefa47ca
 
 # Soter - from S62Pro RKQ1.210406.002
 vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|a6f1c35671a2f102ff95acecc70eefa3a7ebd432
