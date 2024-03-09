@@ -1132,6 +1132,6 @@ vendor/etc/init/init_thermal-engine.rc|a0310f09da9f09c67e110607b73aec9f9f981c4c
 vendor/bin/time_daemon|a313e2419cd77d99ff4a40a88defe77088a4bc8f
 vendor/etc/init/init.time_daemon.rc|b253ca2a498757e14e1d7a051bf504ae09218f51
 
-# Wifi - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/bin/cnss-daemon|60f5ddae32675b6f4587f5fc07c1cf0d23fa8611
+# Wifi - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/cnss-daemon|8d90c2991bad910ff419d66cbc0d71350bc4ba7c
 
