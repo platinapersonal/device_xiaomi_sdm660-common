@@ -121,8 +121,8 @@ vendor/lib64/vendor.qti.hardware.alarm@1.0.so|4004e9ff23c1f01d0ed9dd54108e61e97e
 system_ext/lib/com.qualcomm.qti.ant@1.0.so|695c6f271203d561d798d49c7c496c2f852d5581
 system_ext/lib64/com.qualcomm.qti.ant@1.0.so|80096a66b18cec640d462cb17bce3adee8a27038
 
-# ANT+ - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/lib64/hw/com.dsi.ant@1.0-impl.so|20cb53585f9cc23eb44c37d026a97dfcae84d64a
+# ANT+ - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/lib64/hw/com.dsi.ant@1.0-impl.so|935d0013fa11dff956cfaf876a63266d81f8706a
 
 # Bluetooth - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|b1b6de9318b86ae7249af52c8522ec84ec575692
