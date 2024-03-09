@@ -465,15 +465,15 @@ vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|f060101b26d3674bb173e5f
 vendor/lib/vendor.qti.hardware.dsp@1.0.so|f7890b87c8bb449b3cda16c584821fffb67d4a8c
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so|b1979a024bfa5ee39e149d7924c44243187f1fbf
 
-# ESE - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/bin/hw/vendor.qti.esepowermanager@1.1-service|63bff7d1ac937d6dea6fcb3ddb2acbbdcad06eff
+# ESE - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/hw/vendor.qti.esepowermanager@1.1-service|604943026eac709762db91f79e542d915895e621
 vendor/etc/init/vendor.qti.esepowermanager@1.1-service.rc|3c024c7135ec3dd8658624509ee61396a74f1ede
-vendor/lib/hw/vendor.qti.esepowermanager@1.1-impl.so|beca19cae1b435429bc213f02e114310d09d6095
-vendor/lib/vendor.qti.esepowermanager@1.0.so|ceed7bda5b4d97a62244aaeb6645c4dff5eb93ba
-vendor/lib/vendor.qti.esepowermanager@1.1.so|d38c5c285b7c48bf99a2dedb345e08db808e0611
-vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so|57784f09c1c5ddebcfc2499f519dddabca0b83a3
-vendor/lib64/vendor.qti.esepowermanager@1.0.so|2ef4dcdc5c3c93e757bbcb3ce7db1375fa8e1883
-vendor/lib64/vendor.qti.esepowermanager@1.1.so|9722d849e3fc38ba3aa7828cd47133856eb82cd0
+vendor/lib/hw/vendor.qti.esepowermanager@1.1-impl.so|1d2a3fb6faa879b914d6727e9f8e5c1a209082ed
+vendor/lib/vendor.qti.esepowermanager@1.0.so|d40e3d11565e4e2345f74348f7c8127f859d8a17
+vendor/lib/vendor.qti.esepowermanager@1.1.so|e77dc68ab93e368a58f106314ea5f2d76d0d2f6f
+vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so|7952c057aa76f890c1f08f92a19fccbeb4230740
+vendor/lib64/vendor.qti.esepowermanager@1.0.so|d2a5adccae7746e43b333a302824e47cdff2d849
+vendor/lib64/vendor.qti.esepowermanager@1.1.so|dd01c2ad115ce7fef61c201426777bab691be003
 
 # FM - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 system_ext/lib/vendor.qti.hardware.fm@1.0.so|05b2b5207d7ab6406785af3ea9e38d7a946f8144
