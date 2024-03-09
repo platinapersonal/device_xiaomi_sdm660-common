@@ -480,11 +480,11 @@ vendor/lib/vendor.qti.hardware.fm@1.0.so|7f95c3a15c29e8ff499462e0aaac2d776057377
 vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|5452688754349f98837bcf645c02c2689a55c2e8
 vendor/lib64/vendor.qti.hardware.fm@1.0.so|9fcd16c2b517e0940d36a17e63c16ba98b50bc1a
 
-# Gatekeeper QTI - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|634b7bb3cffcfea34c7be72e4d8e5c902bda5036
+# Gatekeeper QTI - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti|73bb4f63cd79ad30341c0e27c951ec771973401a
 vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|1b8d5f58fe0a57906acf72b862c16a2521daa97b
-vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|23c1c647a6bd2b91a97ea48a0e13b273e9d57e45
-vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|de215e0422b21ba5f21a9aeeaff5fc0b5869be2e
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|6a2f5d2accb924a182e98f1fa229e3a8bc8a161f
+vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|83663e2fb647a8203dcfb34cf83b62dcc0e890e1
 
 # GPS - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 vendor/bin/garden_app|712b78a16d5afb399af48ffe69b33c675c746494
