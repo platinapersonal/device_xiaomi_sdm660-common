@@ -107,15 +107,15 @@ vendor/lib64/soundfx/libshoebox.so|00ecc900130c764e60a33b2aa13e403858cf0897
 # Audio FX modules - from lavender QKQ1.190910.002 V12.5.7.0.QFGCNXM
 vendor/lib/soundfx/libmisoundfx.so|569ee2df586e95116b79cfb3d89429f2032a7a76
 
-# Alarm - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
--product/app/PowerOffAlarm/PowerOffAlarm.apk|3b28fc11b84dea890fc57c2d0d92e0b1ceb047f2
-system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar|53c8e43e6ab1db1c3824626b1503b92991c24e7e
-system_ext/lib64/vendor.qti.hardware.alarm@1.0.so|1dc1a86f4061cba58460422b0a63d24b87e23921
-vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service|461a834ada2a9f9feb8421d1dba11f85842b9772
-vendor/bin/power_off_alarm|911a408ebcfe448f697225e4c39573704c41544f
+# Alarm - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+-product/app/PowerOffAlarm/PowerOffAlarm.apk|ec6d75f8cb6c075906a36147a307775a8a9ae856
+system_ext/framework/vendor.qti.hardware.alarm-V1.0-java.jar|b9afec1739e5c14a69013c708a0a094d705ee899
+system_ext/lib64/vendor.qti.hardware.alarm@1.0.so|2ccf4eefa1fd7c4b98eb3dc8fd60335e3362b052
+vendor/bin/hw/vendor.qti.hardware.alarm@1.0-service|773a97db1bcb7186def466925a143dafea7b167a
+vendor/bin/power_off_alarm|193d931868825f4e9ad62b589271d51c10259d10
 vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc|a03a9a1c818595b19272ea6ffb466e23a7fc3b05
-vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so|7de458829e1d4f5157b291dab5fdb25546df08fc
-vendor/lib64/vendor.qti.hardware.alarm@1.0.so|6918a6a6d66509568ced685917c891038cec3d13
+vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so|8f07c2aa880b11331de90719af3e8e3b0dd519d1
+vendor/lib64/vendor.qti.hardware.alarm@1.0.so|4004e9ff23c1f01d0ed9dd54108e61e97e70c2af
 
 # ANT+ - from LA.QSSI.14.0.r1-11100-qssi.0
 system_ext/lib/com.qualcomm.qti.ant@1.0.so|695c6f271203d561d798d49c7c496c2f852d5581
