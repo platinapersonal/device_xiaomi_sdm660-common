@@ -1113,11 +1113,11 @@ vendor/lib64/libssc_default_listener.so|a5c2d06b2ade50c9481feb42605d9cb3693eafb2
 vendor/lib64/sensor_calibrate.so|42c40d7ec8a7f989be844d4dc699e2cce4cf8514
 vendor/lib64/sensors.ssc.so|7a55a88858acd73fa9a44a99ed49e86baefa47ca
 
-# Soter - from S62Pro RKQ1.210406.002
-vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|a6f1c35671a2f102ff95acecc70eefa3a7ebd432
+# Soter - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/hw/vendor.qti.hardware.soter@1.0-service|5a66d4c1a04a7c979f9e1473f58bccf169a3bc38
 vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc|76447a61ad5529949365eeb7e8ca000e48bd28ae
-vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so|032e38d60840b5ac7ca21eece486ca5acab7f203
-vendor/lib64/vendor.qti.hardware.soter@1.0.so|5496f7816036ef71aec0116864032f8a6078aee7
+vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so|fc868c78f177ffa06af8b503ecb6b40177bc5c9a
+vendor/lib64/vendor.qti.hardware.soter@1.0.so|6e714b7d2feb136a1a52c33ec344b25f41e4a3f9
 
 # Thermal - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
 vendor/bin/thermal-engine|855b5ede2b6d7d8cf24211708f718827f1d8afe5
