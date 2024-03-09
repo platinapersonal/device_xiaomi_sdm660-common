@@ -124,38 +124,38 @@ system_ext/lib64/com.qualcomm.qti.ant@1.0.so|80096a66b18cec640d462cb17bce3adee8a
 # ANT+ - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
 vendor/lib64/hw/com.dsi.ant@1.0-impl.so|935d0013fa11dff956cfaf876a63266d81f8706a
 
-# Bluetooth - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|b1b6de9318b86ae7249af52c8522ec84ec575692
+# Bluetooth - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti|ffc18a75179361b39a6ba0ed50db62e3d0cc14ed
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc|f4ee3b2da2b08647447869ade86ec63f7340accc
-vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so|bcc5e8ec073890acf95e4acd4d60dff464134d97
-vendor/lib64/libbtnv.so|0625957dd33115663ba3a4324e9c7fd57faab9b5
-vendor/lib64/libsoc_helper.so|baf819f79f2ffc4f540e0ec3cc30b5c56e801b18
+vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so|237bd598cebfb8e86b0b0686b5af33c14d8943db
+vendor/lib64/libbtnv.so|181c2bc5605e74549b9117c6af27ab43775ddf32
+vendor/lib64/libsoc_helper.so|f3409f83686e376f9eb02b0ab1be1e45d7d3140b
 
-# Bluetooth (A2DP) - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/lib/hw/audio.bluetooth_qti.default.so|7a8ff638ef7ab081f98bc684bbad63420d257871
-vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|dd862240cef63661016b05d55be39d5e7678237d
-vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so|68119c857b2f3528ec644aee1355f916fe8450ac
-vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|0162f32a3d17d3a5759449c082c8975d05fe2890
-vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|6c2d2af70fdaed686bc0d7ee5b32302f1e62a9b2
-vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|f12af4dcc769c40be874cff88f36c12d3577e35e
-vendor/lib/btaudio_offload_if.so|a2c9b1ef71ea799d675a551cd2fcf9de519e8789
-vendor/lib/libbluetooth_audio_session_qti.so|68d76f5b446ef28bb7f35f43b7ee7095850ccec1
-vendor/lib/libbluetooth_audio_session_qti_2_1.so|6afa397a864df234f4e3399da4b0c2c10e117c82
-vendor/lib/libbt-hidlclient.so|d4551a556e48e62f43ff4276fcfb55fa4994a93e
-vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so|c5bf63a776346b89fdd6e40578ab81016b0af821
-vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so|fb9b3e4caec3c8a06351858dd3114d07925e372d
-vendor/lib64/hw/audio.bluetooth_qti.default.so|c1dae4cd01a699c8bbda0a7dc39b698a12abc841
-vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|bf010e27556bd9c6985b36bc4e9ec1512a1a530a
-vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so|b5914ddd94f753c1fc551d61f3c9f42fd36345f3
-vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|39804e925e2119121af6ed8239fe828577c386a6
-vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|60024de474c1d4bbc03a517b68a8e001c1136370
-vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|1c85232f8e166072ca325d4a2b4e843be8754200
-vendor/lib64/btaudio_offload_if.so|fadd7f33677424ddd9c0466ee65503ed03695448
-vendor/lib64/libbluetooth_audio_session_qti.so|8f8c58f46a0ce479e47b5342de6358e831c076a3
-vendor/lib64/libbluetooth_audio_session_qti_2_1.so|5d1e4afc3393081a339f34f704e5de6b38f4bf1f
-vendor/lib64/libbt-hidlclient.so|7d6db674026e0beb4249612e5085aafb429ca94a
-vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so|594e9bcbc5ebe3d7cee650b07d5662201284fb34
-vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so|a9aba53b8a70521bb141e56a29d209c550f0e336
+# Bluetooth (A2DP) - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/lib/hw/audio.bluetooth_qti.default.so|42a6686f1b62678ae906fc7a7484104023e639ee
+vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|4e89916ee3f0b8802ed235fa52625b1f6ff3e13c
+vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so|a804cc36b388858974b5d5b4cc5cae8714aa08a6
+vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|5816adc7a20b54175e2c2b01a3601d9429a27e91
+vendor/lib/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|c3c9639849c867690f7abb476a5d9a165023e34b
+vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|cb1ebba7d3af674d3cc768c93257db893ba06054
+vendor/lib/btaudio_offload_if.so|5b3d98dd72c77c0fba72a7ca1e28d35a3f929b96
+vendor/lib/libbluetooth_audio_session_qti.so|f4c1371db7105c851a228d8efc469d70ca5d4e86
+vendor/lib/libbluetooth_audio_session_qti_2_1.so|6815d83061c7661e845a87a0c8c2807571053121
+vendor/lib/libbt-hidlclient.so|e579b6b1a6d94ded18a592efc178f7f73ae45a84
+vendor/lib/vendor.qti.hardware.bluetooth_sar@1.0.so|d0d83b36fd1b6c2a8e14c33066cad8ce809f50c2
+vendor/lib/vendor.qti.hardware.bluetooth_sar@1.1.so|35f5b2ecedaee2e212fa7366ae7daf98592c6355
+vendor/lib64/hw/audio.bluetooth_qti.default.so|9e30873fefdcfe50b52752127afbc99218ef763d
+vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so|ac3d43c02c541d54badd67a49010d5b38c288224
+vendor/lib64/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so|16ae63ad2e4e81c43092cec8852018e97294ce96
+vendor/lib64/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so|33ee5c3777abb6b643e49ad5def7d54bb1fd4ccf
+vendor/lib64/hw/vendor.qti.hardware.btconfigstore@1.0-impl.so|1546c03caeead1ffd2f008269fd9650ee1ded220
+vendor/lib64/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so|7205b44cfbeec1f25632fae37fe9185f3da96ee7
+vendor/lib64/btaudio_offload_if.so|cf65c8a9bba2d2a8dad55b13022f2733ef604605
+vendor/lib64/libbluetooth_audio_session_qti.so|54bbc01d51a0325be7136da36c5eeca1fe90cf01
+vendor/lib64/libbluetooth_audio_session_qti_2_1.so|725c04346866ba13ff3fc93a0b639fade554de87
+vendor/lib64/libbt-hidlclient.so|095936ed46bc66b61728b42c71c04bbbb4f4520d
+vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.0.so|d8a580bb23d1204b5bacbeefb801c37c3933c895
+vendor/lib64/vendor.qti.hardware.bluetooth_sar@1.1.so|c75ec590209c7f598ee81d445fe6570a18845e67
 
 # Capability Configstore - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 -system_ext/framework/vendor.qti.hardware.capabilityconfigstore-V1.0-java.jar|17968ba47efae893689efba17b9d75a8b22bc68c
