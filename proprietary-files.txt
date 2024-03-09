@@ -1079,23 +1079,23 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so|ec187255638bec2bb70c30cc342e4bd2df6
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|9ae25b750a38274a44c7cb5793d81c23d003c823
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so|3e23f31927702333b0e25aff4d56760063264010
 
-# SCVE - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/lib/libscveCommon.so|8fd281678e9d1cda5b7c68ddd45b02bed2e623dc
-vendor/lib/libscveCommon_stub.so|450982ccaefcf2a1da6fd57ed5159e8d942b0ef3
-vendor/lib/libscveObjectSegmentation.so|26db80437cf66993349d072fef2d4d369321ef73
-vendor/lib/libscveObjectSegmentation_stub.so|5c1629891cb9cd34d90f31854927909680f86377
-vendor/lib/libscveObjectTracker.so|1382084bb9340bf424e30770e65ade890e6f8177
-vendor/lib/libscveObjectTracker_stub.so|e4c69d6a6a9a26d9e7b29c16f1833775144beaab
-vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so|0f56833d8cc7dad9354cb23b7e41274f753c80c7
-vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so|2626981755f4e6c2cfbc074b15324337acc62170
-vendor/lib64/libscveCommon.so|91a672aeff0926704d12a284c26366b9193b3a0f
-vendor/lib64/libscveCommon_stub.so|25c9563a9c35c1f577692b7959a249887d7c2dee
-vendor/lib64/libscveObjectSegmentation.so|eaea325b2be14a2a0f89a915ad32dcd48690e13a
-vendor/lib64/libscveObjectSegmentation_stub.so|4e07136a5007af3fd81672fb8526b30b460302bd
-vendor/lib64/libscveObjectTracker.so|56ced8c4be34f0d8ee7c2308c51bc4ba2ac506a9
-vendor/lib64/libscveObjectTracker_stub.so|2e5f2b88ef932ed94fc34836ec7e3df6dd5e93ac
-vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so|95c40e8ef8f3f9638b6356ef3e01c2d327e31241
-vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so|e1a4938fb3b9656b00c9f21a88581010cb557163
+# SCVE - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/lib/libscveCommon.so|53c964ff873bf962a28cea07d20ff72cac84e266
+vendor/lib/libscveCommon_stub.so|8d4d5b4a1f4e2fa7d845f6cb2e1c27c9db5d1dd0
+vendor/lib/libscveObjectSegmentation.so|876fcf365fffe69deb82725499e25e2cd25b9b48
+vendor/lib/libscveObjectSegmentation_stub.so|a1ec153331a8e1ec3e07a766cd45ec41838dffa1
+vendor/lib/libscveObjectTracker.so|f62d9c2206bda6b35222a76c35e5be289e6d07fb
+vendor/lib/libscveObjectTracker_stub.so|54fe67907bdc527443bcf89cdb7df55c3b328846
+vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so|1a32110619778b9a93cbf8226e6206e9f39828eb
+vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so|4c4b5290ddbd9ad458cbe8d1778d57e4def24247
+vendor/lib64/libscveCommon.so|e0cf61bbe8bfd2bc8d46056f6414cc269411204e
+vendor/lib64/libscveCommon_stub.so|9e80b79b9d91edf360371cf4d2898a4bd9627182
+vendor/lib64/libscveObjectSegmentation.so|fbabc31cbbf7824ec5aa08cdd73ad4c37613fe9c
+vendor/lib64/libscveObjectSegmentation_stub.so|ee0924db08cbc029cdfcd15f4a7814892071f6da
+vendor/lib64/libscveObjectTracker.so|1114f864dc94a02272e6575ce24a8574459caec3
+vendor/lib64/libscveObjectTracker_stub.so|c8d4ee447045e0bcd4bc9fe101ff3ad5089250da
+vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so|20dca87cf73b1e69b1650aff7c5c72f9e0b74fe0
+vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so|aab964d5e947d461c190aa3841d136dfa0fd9b44
 
 # Sensors - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
 -system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar|476196a495be445ab56745461e08c5f95cce0da6
