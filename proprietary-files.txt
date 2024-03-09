@@ -670,27 +670,21 @@ system_ext/lib/liblistensoundmodel2.qti.so|d1b0ebd11cbeac9b9ac44b56c070a1df4406c
 system_ext/lib64/liblistenjni.qti.so|f7a0504c2b52a34976f59507aa0c361e75ea9e77
 system_ext/lib64/liblistensoundmodel2.qti.so|c13687f58b5f42d928765aaf844ed95cf38b9b1f
 
-# Listen - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/lib/hw/sound_trigger.primary.sdm660.so|7700ac77ffb4ced4a404d12cb962533252f50c83
-vendor/lib/libadpcmdec.so|50af16a56e7741978401b799a84e5ff43dedbfe0
-vendor/lib/libcapiv2svacnnvendor.so|50c9517b6b3ced6c20fbfa090dd9e57720f43c73
-vendor/lib/libcapiv2vopvendor.so|5de43a8498c771a28bd23198ae077c2ed4dc42cf
-vendor/lib/libgcs-calwrapper.so|0ac1a2c5e79c4455205bf10b2059007f699a647c
-vendor/lib/libgcs-ipc.so|e75aee393a44c18191a7a91a1d27e75271d90b77
-vendor/lib/libgcs-osal.so|1173b18d227a883d4503b435d75fae5cd5c597f0
-vendor/lib/libgcs.so|c31fb9b9c4ad8466dbaaa0a7c27419209fae0e3a
-vendor/lib/liblistensoundmodel2vendor.so|19df7a0a9de9b313d5ac5013b99892c594f28f55
-vendor/lib/libmulawdec.so|4575d8afb0dd7f9c33fba9fc25fc073d7c525fe5
-vendor/lib/libsmwrapper.so|efc8c8b61d5947a88f2a1f52e6c6d50bac78a61e
-vendor/lib64/hw/sound_trigger.primary.sdm660.so|58419a9261406edd3d1ea84ab2f3df15ec4ae9c4
-vendor/lib64/libcapiv2svacnnvendor.so|edbb52ee36f4607f3a63fadbac92e1b9d0065251
-vendor/lib64/libcapiv2vopvendor.so|9dad2e184844475c521631d04d5ecb14ddcc3c32
-vendor/lib64/libgcs-calwrapper.so|740cb0425190f503a1128da5cb33b92893d55f86
-vendor/lib64/libgcs-ipc.so|2af0e02519a4bdf8a4f78f551b3a11268b6daeb6
-vendor/lib64/libgcs-osal.so|fddf561ad3fa2d3917eb424f38ec4d1e450ab5d9
-vendor/lib64/libgcs.so|de535de65ec247f94535daf39d3e7133b31b98bf
-vendor/lib64/liblistensoundmodel2vendor.so|8ebfe82c02e39f8520e1d62c6d611398c9b801bf
-vendor/lib64/libmulawdec.so|179e0f2d77498a0dc9080b9ba7a17ac995b64d2e
+# Listen - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/lib/hw/sound_trigger.primary.sdm660.so|36bfc9aefb05c4a15c3ab86c863b49167241d2d3
+vendor/lib/libadpcmdec.so|e93004a25f718447c0c9ea13f57ab98abdb04077
+vendor/lib/libgcs-calwrapper.so|774922d73d1ca2c520168b45dcca69ea0fdef40f
+vendor/lib/libgcs-ipc.so|ede31a7e061e9d2d182da006088aebd3ec6c5101
+vendor/lib/libgcs-osal.so|7d019b8c28f49bc7ae571bb033483b425d70485e
+vendor/lib/libgcs.so|7cad77da6218d3ebc10d02ae16887e9828be098a
+vendor/lib/libmulawdec.so|940e646054ba3ea5ebf068e6ef83d3bedbab9ea4
+vendor/lib/libsmwrapper.so|eee5f95c2606a564c91cd70083e5e66328c0fb6c
+vendor/lib64/hw/sound_trigger.primary.sdm660.so|fbed0dba6a56bf7de3a9599210bc1885b47df4cc
+vendor/lib64/libgcs-calwrapper.so|851adb2ace8d1c8b16ecae08fbcacb3bd2d87bd3
+vendor/lib64/libgcs-ipc.so|85269967df043ff3aaaa62347b161362d9df39a3
+vendor/lib64/libgcs-osal.so|158586fa96dc726ae661767ecaa08b28d8ea1bf8
+vendor/lib64/libgcs.so|678c7956f4aaae15ff044192850e1d879e98fb90
+vendor/lib64/libmulawdec.so|0fffe1bfb77a6cdf6fada5833369a6445d67a7d0
 
 # Media - from LA.QSSI.14.0.r1-12000-qssi.0
 system_ext/lib/extractors/libmmparserextractor.so|a27fcdac0d65fe9be9514a48c4b330c051fa5500
