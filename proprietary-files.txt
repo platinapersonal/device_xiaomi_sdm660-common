@@ -175,8 +175,8 @@ vendor/lib64/libcdsprpc.so|618b76b55d5f642b6a4f8ef72ca5f73227dbfeeb
 vendor/lib64/libfastrpc_utf_stub.so|5101b6dd3a69b330c7b5ea5aa2f9349ad58edb7d
 vendor/lib64/libsysmon_cdsp_skel.so|b5584502cd9adadc35af392ae74b688810848cd7
 
-# Charger - from Honeywell/hon660/hon660:12/94.00.03/0037:user/release-keys
-vendor/bin/hvdcp_opti|f796b2851846d4f24424a4a1c4fd97bada885bcf
+# Charger - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+vendor/bin/hvdcp_opti|672bdd8302a94249a9d220e793201d4448ff3df7
 
 # CNE - from LA.QSSI.14.0.r1-11100-qssi.0
 system_ext/app/DynamicDDSService/DynamicDDSService.apk|d39955e6c5ee89f908331c0f4bd7d9ce5b4f14eb
