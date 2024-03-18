@@ -19,7 +19,6 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
-import com.android.settingslib.widget.R;
 
 public class BMSActivity extends CollapsingToolbarBaseActivity {
 
@@ -27,11 +26,14 @@ public class BMSActivity extends CollapsingToolbarBaseActivity {
     protected void onCreate(Bundle bundle) {
         super.onCreate(bundle);
 
-        Fragment fragment = getFragmentManager().findFragmentById(R.id.content_frame);
+        Fragment fragment = getFragmentManager().findFragmentById(
+                 com.android.settingslib.collapsingtoolbar.R.id.content_frame);
         BMSFragment bmsFragment;
         if (fragment == null) {
             bmsFragment = new BMSFragment();
-            getFragmentManager().beginTransaction().add(R.id.content_frame, bmsFragment).commit();
+            getFragmentManager().beginTransaction().add(
+                  com.android.settingslib.collapsingtoolbar.R.id.content_frame, bmsFragment)
+                  .commit();
         }
     }
 }
