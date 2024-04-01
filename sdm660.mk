@@ -564,6 +564,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(COMMON_PATH) \
     hardware/google/interfaces \
     hardware/google/pixel \
+    hardware/qcom-caf/wlan \
     hardware/xiaomi
 
 # Speed profile services and wifi-service to reduce RAM and storage
