@@ -11,12 +11,6 @@ $(call inherit-product-if-exists, build/target/product/embedded.mk)
 # Disable deprecated sdcardfs, enable casefold, projid
 $(call inherit-product, $(SRC_TARGET_DIR)/product/emulated_storage.mk)
 
-# Enable updating of APEXes
-ifeq ($(ENABLE_APEX), true)
-TARGET_SUPPORTS_UPDATABLE_APEX := true
-$(call inherit-product-if-exists, vendor/prebuilts/config/apex.mk)
-endif
-
 # Inherit proprietary files
 $(call inherit-product, vendor/xiaomi/sdm660-common/sdm660-common-vendor.mk)
 $(call inherit-product-if-exists, vendor/xiaomi/MiuiCamera/config.mk)
