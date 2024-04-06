@@ -78,10 +78,6 @@ function blob_fixup() {
         "${PATCHELF}" --remove-needed "android.hidl.base@1.0.so" "${2}"
         ;;
 
-    vendor/lib/hw/camera.sdm660.so)
-        "${PATCHELF}" --add-needed camera.sdm660_shim.so "${2}"
-        ;;
-
     esac
 
     device_blob_fixup "$@"
