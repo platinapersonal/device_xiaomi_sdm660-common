@@ -123,7 +123,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@2.0.vendor
 
 # Boot animation
-TARGET_BOOTANIMATION_SIZE := 1080p
+TARGET_BOOTANIMATION_HALF_RES := true
 
 # Camera
 PRODUCT_PACKAGES += \
