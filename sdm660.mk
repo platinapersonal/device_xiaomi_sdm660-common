@@ -437,6 +437,8 @@ PRODUCT_PACKAGES += \
 # Net
 PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
+    libloc_net_iface \
+    libloc_net_iface.vendor \
     netutils-wrapper-1.0
 
 # OMX
