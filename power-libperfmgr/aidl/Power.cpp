@@ -74,6 +74,13 @@ Power::Power(std::shared_ptr<AdaptiveCpu> adaptiveCpu)
     }
 }
 
+static void endAllHints() {
+    std::shared_ptr<HintManager> hm = HintManager::GetInstance();
+    for (auto hint : hm->GetHints()) {
+        hm->EndHint(hint);
+    }
+}
+
 ndk::ScopedAStatus Power::setMode(Mode type, bool enabled) {
     LOG(DEBUG) << "Power setMode: " << toString(type) << " to: " << enabled;
     if (HintManager::GetInstance()->GetAdpfProfile() &&
