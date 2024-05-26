@@ -37,8 +37,8 @@ vendor/lib/rfsa/adsp/libvpp_svc_skel.so|2da97f61c1d14f1f9a38aecd8ab89a1f6fa8d991
 vendor/lib/rfsa/adsp/dirac_resource.dar|1e5c52f2a41bdbec4f38ebdcb83d4fc73edc0ec9
 vendor/lib/rfsa/adsp/libdirac-capiv2.so|e56031dfaee094d5267e3cc16625cfceaa07cc27
 
-# Audio - from LA.QSSI.14.0.r1-13500-qssi.0
-system_ext/bin/qxrsplitauxservice|c5f22a864f40c91000e78382fb5fec37d09420ca
+# Audio - from LA.QSSI.14.0.r1-14100-qssi.0
+system_ext/bin/qxrsplitauxservice|916af06b278375a3e1f6d5be76df2952b15843b3
 system_ext/etc/init/sxrauxd_ext.rc|fbaa12e37788fa17524fec02b842902d4e3a6f53
 system_ext/etc/seccomp_policy/sxraux-arm.policy|641a5c68c9842e9defc052b6b401c5e8a4c2d2de
 -system_ext/framework/vendor.qti.voiceprint-V1.0-java.jar|6698f97a70e9384b05745ceeee27310ceabbd557
