@@ -599,9 +599,9 @@ vendor/lib64/libVkLayer_q3dtools.so|55b486927aed5589f13e1fa66162e845d44e1c43
 vendor/lib/libhdr_tm.so|dd0e01284e1e76244a849e5a2e0393a21bd36508
 vendor/lib64/libhdr_tm.so|28117de78d64d15d1454a13b50c17b168170e456
 
-# Graphics (Postprocessing) - from LA.QSSI.14.0.r1-11100-qssi.0
-system_ext/lib64/libsd_sdk_display.qti.so|9c057656ea604a9d5ca1f98ba9cf974bb81de7e9
-system_ext/lib64/libsdm-disp-apis.qti.so|8f86d32c087601356ac009358e16fcba9995610d
+# Graphics (Postprocessing) - from LA.QSSI.14.0.r1-14100-qssi.0
+system_ext/lib64/libsd_sdk_display.qti.so|2300df780204b5bf55dcf249a2e593bc27ffd255
+system_ext/lib64/libsdm-disp-apis.qti.so|ea85c8ce078646b4a28d6250366421e4ffa5b061
 system_ext/lib64/vendor.display.color@1.0.so|2d294cf3b8d175e78abef277a04772adb387debd
 system_ext/lib64/vendor.display.color@1.1.so|06c473e2a82e2eb928e375c1ecf69a0f64a3133d
 system_ext/lib64/vendor.display.color@1.2.so|5614bff70d2ed3fa8d3cfd12ec5986728889280f
