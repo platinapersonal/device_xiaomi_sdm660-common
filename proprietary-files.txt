@@ -690,11 +690,11 @@ vendor/lib64/libgcs-osal.so|158586fa96dc726ae661767ecaa08b28d8ea1bf8
 vendor/lib64/libgcs.so|678c7956f4aaae15ff044192850e1d879e98fb90
 vendor/lib64/libmulawdec.so|0fffe1bfb77a6cdf6fada5833369a6445d67a7d0
 
-# Media - from LA.QSSI.14.0.r1-12000-qssi.0
+# Media - from LA.QSSI.14.0.r1-15100-qssi.0
 system_ext/lib/extractors/libmmparserextractor.so|a27fcdac0d65fe9be9514a48c4b330c051fa5500
-system_ext/lib/libavenhancements.so|ce5b60d951ecdecae867e3b4e122b9b9e71f928c
+system_ext/lib/libavenhancements.so|2c4e7fe65f00e3d4c010c12250149834fa7e0ad0
 system_ext/lib64/extractors/libmmparserextractor.so|ec7b03f56f0d4f18c40c6fd0391e0d489ea11059
-system_ext/lib64/libavenhancements.so|784e9cb97c639de7b249f685a2c3023ab01b58c8
+system_ext/lib64/libavenhancements.so|561a175ba1b1e81b46889fad665e55d649bafd16
 
 # Media - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
 vendor/lib/libAlacSwDec.so|13abcbb9a93bf945d6377aea7c60f5ddbfb92927
