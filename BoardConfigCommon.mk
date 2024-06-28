@@ -101,7 +101,7 @@ DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE := \
     hardware/xiaomi/vintf/xiaomi_framework_compatibility_matrix.xml
 DEVICE_FRAMEWORK_MANIFEST_FILE := $(COMMON_PATH)/framework_manifest.xml
 DEVICE_MANIFEST_FILE := $(COMMON_PATH)/manifest.xml
-DEVICE_MATRIX_FILE := $(COMMON_PATH)/compatibility_matrix.xml
+DEVICE_MATRIX_FILE += hardware/qcom-caf/common/compatibility_matrix.xml
 
 # HWUI
 HWUI_COMPILE_FOR_PERF := true
