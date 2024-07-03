@@ -69,6 +69,9 @@ TARGET_NO_BOOTLOADER := true
 # Build Rules
 BUILD_BROKEN_DUP_RULES := true
 
+# Camera
+TARGET_USES_YCRCB_CAMERA_ENCODE := true
+
 # ConfigFS
 TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/configs/config.fs
 
