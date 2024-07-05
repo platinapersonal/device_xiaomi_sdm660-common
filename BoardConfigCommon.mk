@@ -128,7 +128,7 @@ BOARD_RAMDISK_USE_LZ4 := true
 TARGET_KERNEL_LLVM_BINUTILS := false
 
 # Enable stats logging in LMKD
-TARGET_LMKD_STATS_LOG := true
+TARGET_LMKD_STATS_LOG := false
 
 # Keymaster
 TARGET_PROVIDES_KEYMASTER := true
