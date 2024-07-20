@@ -534,6 +534,7 @@ PRODUCT_PACKAGES += \
     android.hardware.secure_element@1.2.vendor \
     libnetutils.vendor \
     libsqlite.vendor \
+    libsysutils.vendor \
     libssl.vendor
 
 # RIL
