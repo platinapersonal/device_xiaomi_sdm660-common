@@ -147,6 +147,7 @@ debug.sf.treat_170m_as_sRGB=1
 debug.sf.predict_hwc_composition_strategy=0
 dev.pm.dyn_samplingrate=1
 ro.vendor.display.cabl=2
+ro.hwui.render_ahead=23
 debug.hwui.skia_atrace_enabled=false
 vendor.display.disable_skip_validate=1
 vendor.display.enable_default_color_mode=0
