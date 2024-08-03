@@ -182,12 +182,11 @@ PRODUCT_PACKAGES += \
     android.hardware.graphics.composer@2.1-service \
     android.hardware.graphics.mapper@3.0-impl-qti-display \
     android.hardware.graphics.mapper@4.0-impl-qti-display \
-    android.hardware.memtrack-service.example \
+    vendor.qti.hardware.memtrack-service \
     vendor.qti.hardware.display.allocator-service \
     vendor.qti.hardware.display.mapper@2.0.vendor \
     gralloc.sdm660 \
     hwcomposer.sdm660 \
-    memtrack.sdm660 \
     libdisplayconfig \
     libgralloc.qti \
     vendor.display.config@1.0 \
