@@ -32,5 +32,8 @@ type sysfs_fcharge, sysfs_type, fs_type;
 # Kcal
 type kcal_dev, sysfs_type, fs_type;
 
+# Power
+type proc_sched_energy_aware, proc_type, fs_type;
+
 # Sockets
 type audio_socket, file_type;
