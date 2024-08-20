@@ -636,7 +636,7 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/interfaces \
     hardware/google/pixel \
     hardware/xiaomi \
-    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/afterlife/interfaces/power-libperfmgr \
     hardware/qcom-caf/common/libqti-perfd-client
 
 # Speed profile services and wifi-service to reduce RAM and storage
