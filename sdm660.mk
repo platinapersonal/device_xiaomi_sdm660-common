@@ -151,7 +151,7 @@ PRODUCT_PACKAGES += \
     libsfplugin_ccodec \
     android.hardware.media.c2@1.2.vendor \
     libcodec2_vndk.vendor \
-    libcodec2_hidl@1.0.vendor
+    libcodec2_hidl@1.2.vendor
 
 # Dalvik
 $(call inherit-product, frameworks/native/build/phone-xhdpi-4096-dalvik-heap.mk )
