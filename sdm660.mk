@@ -203,7 +203,7 @@ PRODUCT_PACKAGES += \
 # Encryption
 PRODUCT_PACKAGES += \
     android.hardware.gatekeeper@1.0.vendor \
-    android.hardware.keymaster@4.1.vendor \
+    android.hardware.keymaster@4.1.vendor
 
 # Freeform Multiwindow
 PRODUCT_COPY_FILES += \
@@ -347,7 +347,7 @@ PRODUCT_COPY_FILES += \
     $(COMMON_PATH)/configs/media/media_profiles_vendor.xml:$(TARGET_COPY_OUT_SYSTEM)/etc/media_profiles.xml \
     $(COMMON_PATH)/configs/media/media_profiles.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles.xml \
     $(COMMON_PATH)/configs/media/media_profiles_sdm660_v1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_sdm660_v1.xml \
-    $(COMMON_PATH)/configs/media/media_profiles_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_vendor.xml \
+    $(COMMON_PATH)/configs/media/media_profiles_vendor.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_vendor.xml
 
 # Media Google
 PRODUCT_COPY_FILES += \
