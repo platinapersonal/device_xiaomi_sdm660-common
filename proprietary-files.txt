@@ -61,19 +61,19 @@ system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so|3c28891cd28f9c0054066190
 system_ext/lib64/vendor.qti.hardware.qxr-V1-ndk_platform.so|dd9c3c79013092c0f2e276e828e230789d0d173e
 system_ext/lib64/vendor.qti.voiceprint@1.0.so|ea86536d42e8a63df5698278a373bb5cf051f547
 
-# Audio - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+# Audio - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
 vendor/bin/audioflacapp|7c1af58ff412fe328005d0dc8e1a06b0fbde19e4
-vendor/lib/libacdb-fts.so|85db0429ba7dc827246d5cd5f09f1d2431efa5ef
-vendor/lib/libacdbloader.so|fba13071988a7d9621427a39ddafdf37d253fab4
-vendor/lib/libacdbrtac.so|5352f64da0d477814c80145a1c38c180b48320b2
-vendor/lib/libadiertac.so|de8867427f0e6cf9465642c59974d27846374cc8
+vendor/lib/libacdb-fts.so|36a0df8b51d07a78d57d71a633801be3414ecbc5
+vendor/lib/libacdbloader.so|19f8bc0407ecb270f454d96330420edc7cf91d77
+vendor/lib/libacdbrtac.so|f67f13908c2f62b160e9993f797c1679e5f0d950
+vendor/lib/libadiertac.so|c3250dfdecfe5ed69c082a8c191ccde5b8fb06f8
 vendor/lib/libadm.so|436dac72f82be5159d768c38c2f9257ce3d1c2e8
-vendor/lib/libaudcal.so|24a0e64b36a707da08fc7d9bc160ab8b0adc8851
-vendor/lib/libaudioalsa.so|8233b05a3353c2cad7eba5bd7fb2abe2f9cfdf5d
-vendor/lib/libaudioconfigstore.so|29d0ff5c743192ab704fe6fbf9e6d34c1c956c0d
--vendor/lib/libaudioparsers.so|320ed41cd6e481f00090d579ca55809c6fd10037
+vendor/lib/libaudcal.so|447844ffbfc43f81393362131f3e33444d2084de
+vendor/lib/libaudioalsa.so|7342effe511415a2ca01b8eabfa53e2fe6cbd897
+vendor/lib/libaudioconfigstore.so|3aed9682a82b62c3ef36121baa1c47cc58a53efc
+-vendor/lib/libaudioparsers.so|0a24b3cc490764ea46528d78d35ed2251f49021e
 vendor/lib/libdrc.so|5e3c7f13ab8d0fdffd966a36265bc915f8ba6b5a
-vendor/lib/libqtigef.so|62e7509d5871579c9698a33d43d2367f69393cee
+vendor/lib/libqtigef.so|9f49e483524a78a0721c062c94b22bd97683a5b2
 vendor/lib/libsurround_3mic_proc.so|2847240eb3f04393d0b7664df80fcafcfa433e06
 vendor/lib64/libacdb-fts.so|b9553b1a5a64dcff12116b03603c3943daf7f1c0
 vendor/lib64/libacdbloader.so|14aeff3b3e552f8191e928d7391819bb97cc55f3
