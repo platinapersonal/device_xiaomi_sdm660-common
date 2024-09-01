@@ -607,14 +607,14 @@ system_ext/lib64/vendor.display.color@1.1.so|06c473e2a82e2eb928e375c1ecf69a0f64a
 system_ext/lib64/vendor.display.color@1.2.so|5614bff70d2ed3fa8d3cfd12ec5986728889280f
 system_ext/lib64/vendor.display.postproc@1.0.so|14e5a2aeb53e3eee3a5cd25529a16bd0efe4e04a
 
-# Graphics (Postprocessing) - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+# Graphics (Postprocessing) - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
 vendor/bin/hw/vendor.display.color@1.0-service|f21f110b890278b94616b40a83277426c07bfcef
 vendor/bin/mm-pp-dpps|8a3c5968edaf259a982e99455ffd9b34168237a6
 vendor/etc/init/vendor.display.color@1.0-service.rc|5ad673f879b3685a0e79b5633437e5499cb94f48
-vendor/lib/vendor.display.color@1.0.so|4cfc58d5531fe2a8583f9f4057a922cbe7fa553d
-vendor/lib/vendor.display.color@1.1.so|0ee913ec1db6386e0ceca73e1472fd3b16fa7abf
-vendor/lib/vendor.display.color@1.2.so|f8e3c3352dabcf3967ac7a13ca5e378c6e313104
-vendor/lib/vendor.display.postproc@1.0.so|cb6c568f3678154bcf86b24e7e3b11f16da1728b
+vendor/lib/vendor.display.color@1.0.so|5d34c47297bc1b8d8eb3a15eb6092629f015b1d9
+vendor/lib/vendor.display.color@1.1.so|12108111eac6489ac37fa260b4812588e0c03782
+vendor/lib/vendor.display.color@1.2.so|cacdec3051de78404433a1cb4209aa5efb160416
+vendor/lib/vendor.display.postproc@1.0.so|d4b5bb27dada06383121300c5c23e448c3459244
 vendor/lib64/libdisp-aba.so|9ce877f02ff7fd2b429aebe7c8e95a0c969c395d
 vendor/lib64/vendor.display.color@1.0.so|b502506db34c16d613dc1bcd6d1c5a4098435e21
 vendor/lib64/vendor.display.color@1.1.so|65409342ecea5cfa2103a4ab0b6380ef691e2888
