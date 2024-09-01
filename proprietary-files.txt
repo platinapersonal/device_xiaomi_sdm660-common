@@ -832,7 +832,7 @@ system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.1.so|a19ecac9a0c9
 system_ext/lib64/vendor.qti.hardware.radio.uim_remote_client@1.2.so|883b0b971473b6e43709eaaea11943e72580c33b
 system_ext/lib64/vendor.qti.hardware.radio.uim_remote_server@1.0.so|c918ca8f28ac1ce27b4c2c9ac9a0f042fb3cad5d
 
-# Radio - from Zebra/helios/helios:13/13-29-10.00-TG-U00-STD-HEL-04/120:user/release-keys
+# Radio - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
 vendor/bin/hw/qcrild|452be3cc159d7f0a001f03cd00845b159b002b13
 vendor/bin/adpl|3de10f1c962aac60a5b9f35935e5322aa80d897b
 vendor/bin/netmgrd|3ec640be13470f608ed8c476e31c4bfeab6a4a21
@@ -872,8 +872,8 @@ vendor/lib64/libqrtr.so|948619679d57ca85512ddef90684468df1b23d70
 vendor/lib64/libqsocket.so|bee3fe87b9a515912368e2e25283e72d02bf4fc0
 vendor/lib64/libril-qc-hal-qmi.so|239abe3c65b96ec5b8b9fecf38fe4a65e3d94280
 vendor/lib64/libril-qc-logger.so|103045dba0de411366d7d4884096838663b80941
-vendor/lib64/libril-qc-ltedirectdisc.so|a09eb575b3fca9229b390e1c6f56db21df5cf1ca
-vendor/lib64/libril-qc-radioconfig.so|f3ba568b59b41c90a0c1d0fe192371b972ba7d20
+vendor/lib64/libril-qc-ltedirectdisc.so|90277515402163a07ff86ec7630e2e9c74a58000
+vendor/lib64/libril-qc-radioconfig.so|cd2caafced10c9db369dff954029aebdcc5eb238
 vendor/lib64/libril-qcril-hook-oem.so|b1e21403183c82c62953345cc8b6307b10e9ceb3
 vendor/lib64/librilqmiservices.so|f00c0ff8198f3eb72fff243a6a58f532c2b52269
 vendor/lib64/libsettings.so|2ac0b04632293f9e2050e2113cd10af9ccf121b2
