@@ -781,13 +781,13 @@ vendor/lib64/libqmi_legacy.so|06c715177df1943b772b139d9718ade227119b0e
 vendor/lib64/libqmiservices.so|36262f1488e1c99c24e50d1915fd597f8e7ef64a
 vendor/lib64/libsubsystem_control.so|a97c9e7ec9ce7e60012f944bed8b07cf8a03613d
 
-# QSEEcom HAL - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
-system_ext/lib/vendor.qti.hardware.qseecom@1.0.so|b7eeccfa11ca3765396182be6b3386d343c6dd60
+# QSEEcom HAL - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+system_ext/lib/vendor.qti.hardware.qseecom@1.0.so|ff7e26ef10788c9e79c880dd6de8c57d74fc09fd
 system_ext/lib64/vendor.qti.hardware.qseecom@1.0.so|f586b193b9fba71845f27b4395505180b411c176
 vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service|95f9e0aa4b3320a22a534bf415f0473fd09b3cbc
 vendor/etc/init/vendor.qti.hardware.qseecom@1.0-service.rc|0f43244d70d5efc1e4f089b926a9dc4f59e53db1
 vendor/lib/hw/vendor.qti.hardware.qseecom@1.0-impl.so|8565233122afc8c99f536677452a7dd66713cdca
-vendor/lib/vendor.qti.hardware.qseecom@1.0.so|1ae7ccce14972437e28c276c5f140386b1f0a966
+vendor/lib/vendor.qti.hardware.qseecom@1.0.so|3cf5ca2ce99e4a8bd67780dd6d2971358b569d89
 vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so|a0950b63719a54dce170f69c512db3ff5a93b06b
 vendor/lib64/vendor.qti.hardware.qseecom@1.0.so|f0846863eaee7fcefd0d8bfa24c8f78a34122388
 
