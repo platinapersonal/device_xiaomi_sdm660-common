@@ -479,8 +479,8 @@ vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so|7952c057aa76f890c1f08f92a
 vendor/lib64/vendor.qti.esepowermanager@1.0.so|d2a5adccae7746e43b333a302824e47cdff2d849
 vendor/lib64/vendor.qti.esepowermanager@1.1.so|dd01c2ad115ce7fef61c201426777bab691be003
 
-# FM - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
-vendor/lib/vendor.qti.hardware.fm@1.0.so|7f95c3a15c29e8ff499462e0aaac2d776057377f
+# FM - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+vendor/lib/vendor.qti.hardware.fm@1.0.so|3709cb30c87eebfd9e9bf234f78934c5dfc7445b
 vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so|5452688754349f98837bcf645c02c2689a55c2e8
 vendor/lib64/vendor.qti.hardware.fm@1.0.so|9fcd16c2b517e0940d36a17e63c16ba98b50bc1a
 
