@@ -688,10 +688,10 @@ vendor/lib64/libgcs-osal.so|158586fa96dc726ae661767ecaa08b28d8ea1bf8
 vendor/lib64/libgcs.so|678c7956f4aaae15ff044192850e1d879e98fb90
 vendor/lib64/libmulawdec.so|0fffe1bfb77a6cdf6fada5833369a6445d67a7d0
 
-# Media - from LA.QSSI.14.0.r1-16000-qssi.0
-system_ext/lib/extractors/libmmparserextractor.so|a27fcdac0d65fe9be9514a48c4b330c051fa5500
+# Media - from LA.QSSI.14.0.r1-16600-qssi.0
+system_ext/lib/extractors/libmmparserextractor.so|eafa1a6161456a9283cd2b2b92a44fe2ce6937e3
 system_ext/lib/libavenhancements.so|f498a457feead8942ba2b97240af169bd95d7c6c
-system_ext/lib64/extractors/libmmparserextractor.so|ec7b03f56f0d4f18c40c6fd0391e0d489ea11059
+system_ext/lib64/extractors/libmmparserextractor.so|463d20da8529ec1564a79a38ea169cc7dcbc81b0
 system_ext/lib64/libavenhancements.so|924381c9ecd97eb69f7e8246656e357fb2df46c4
 
 # Media - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
