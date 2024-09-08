@@ -180,6 +180,9 @@ TARGET_COPY_OUT_VENDOR := vendor
 # Platform
 BOARD_VENDOR_PLATFORM := xiaomi-sdm660
 
+# Exclude QCOM powerhal manifest
+TARGET_PROVIDES_POWERHAL := true
+
 # Extra Symlink
 BOARD_ROOT_EXTRA_SYMLINKS := \
     /vendor/dsp:/dsp \
