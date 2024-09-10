@@ -212,7 +212,9 @@ PRODUCT_COPY_FILES += \
 # DRM
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey \
-    android.hardware.drm@1.4.vendor
+    android.hardware.drm@1.4.vendor \
+    libhidlmemory.vendor:64 \
+    libcrypto_shim
 
 # Encryption
 PRODUCT_PACKAGES += \
