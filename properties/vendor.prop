@@ -229,9 +229,6 @@ ro.soc.model=SDM660
 # SSR
 persist.vendor.ssr.restart_level=ALL_ENABLE
 
-# System Server
-persist.arm64.memtag.system_server=off
-
 # USB
 ro.usb.uvc.enabled=true
 sys.usb.mtp.batchcancel=1
