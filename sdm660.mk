@@ -607,7 +607,6 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/qcom/opensource/usb/etc
 
 # Vibrator
-PRODUCT_PACKAGES += \
 $(call inherit-product, vendor/qcom/opensource/vibrator/vibrator-vendor-product.mk)
 
 # VNDK
