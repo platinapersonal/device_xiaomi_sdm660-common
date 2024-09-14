@@ -76,7 +76,7 @@ PRODUCT_PACKAGES += \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
-    libvolumelistener\
+    libvolumelistener
 
 # Audio Configs
 PRODUCT_COPY_FILES += \
