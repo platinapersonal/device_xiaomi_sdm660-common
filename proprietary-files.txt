@@ -791,9 +791,9 @@ vendor/lib/vendor.qti.hardware.qseecom@1.0.so|3cf5ca2ce99e4a8bd67780dd6d2971358b
 vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so|a0950b63719a54dce170f69c512db3ff5a93b06b
 vendor/lib64/vendor.qti.hardware.qseecom@1.0.so|f0846863eaee7fcefd0d8bfa24c8f78a34122388
 
-# Radio - from LA.QSSI.14.0.r1-14100-qssi.0
+# Radio - from LA.QSSI.14.0.r1-16800-qssi.0
 system_ext/app/DeviceInfo/DeviceInfo.apk|9151091e029c31228100a4c471b5a499acdf8129
-system_ext/app/QtiTelephonyService/QtiTelephonyService.apk|6649715fb5d956ca7e92a747dc6e73a24f3c025e
+system_ext/app/QtiTelephonyService/QtiTelephonyService.apk|c5dcb00de3453313c1e076a33bd8a08ba874c5e5
 system_ext/app/uceShimService/uceShimService.apk|38ea630d6d94ba85de4218854d12c68957c8c422
 system_ext/etc/permissions/embms-noship_product_privapp_permissions_qti.xml|68313c1332f3650f7fc23d796c8dd1ee79bfa5e5
 system_ext/etc/permissions/qcrilhook.xml|30397e293b2c40e6b7a1d11c2a615cdd05de625a
