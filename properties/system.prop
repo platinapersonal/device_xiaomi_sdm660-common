@@ -12,6 +12,7 @@ ro.config.vc_call_vol_steps=14
 ro.config.alarm_vol_steps=25
 
 # Bluetooth & FM
+bluetooth.le.disable_apcf_extended_features=1
 vendor.bluetooth.soc=cherokee
 bt.max.hfpclient.connections=1
 vendor.hw.fm.init=0
