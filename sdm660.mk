@@ -650,3 +650,6 @@ endif
 PRODUCT_PACKAGES += \
     DeviceSettings
 
+# Sign build
+-include vendor/lineage-priv/keys/keys.mk
+
