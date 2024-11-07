@@ -656,3 +656,5 @@ PRODUCT_PACKAGES += \
 # Sign build
 -include vendor/lineage-priv/keys/keys.mk
 
+# Vendor Extra
+-include vendor/extra/product.mk
