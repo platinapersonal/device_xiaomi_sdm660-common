@@ -462,11 +462,11 @@ vendor/lib64/libwvhidl.so|39a5766f1b64c9bddc2af63421edcc515fe030ea
 vendor/lib64/libops.so|79efbf6cad2617a6d1de6c649cca9ddeb1a0c1e5
 vendor/lib64/libspl.so|e2b3e2dd28b0eee567d72de696cd1e01288ae06f
 
-# DSP - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+# DSP - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/bin/dspservice|4ff6bac615c12a3a732eccca4b1e25e280acf880
 vendor/etc/init/vendor.qti.hardware.dsp@1.0-service.rc|fbf2bb38ca6bdddf98c7123da9e1f263a4eec55f
 vendor/etc/seccomp_policy/vendor.qti.hardware.dsp.policy|f060101b26d3674bb173e5fc95e118f56a8ac15d
-vendor/lib/vendor.qti.hardware.dsp@1.0.so|14795847e7dd8935e5c489c29cffef9519ad2c78
+vendor/lib/vendor.qti.hardware.dsp@1.0.so|f7890b87c8bb449b3cda16c584821fffb67d4a8c
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so|b1979a024bfa5ee39e149d7924c44243187f1fbf
 
 # ESE - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
