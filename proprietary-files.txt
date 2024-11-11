@@ -650,13 +650,13 @@ system_ext/framework/com.android.hotwordenrollment.common.util.jar|c764b636e0be4
 # IRQ balance - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
 vendor/bin/msm_irqbalance|9e39bffcabe1dfd1d1a4d004171c7b01179f3ca8
 
-# Keymaster - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+# Keymaster - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/bin/hw/android.hardware.keymaster@3.0-service-qti|549af6e45e14fcca052c3b4a41daad56ad402733
 vendor/bin/hw/android.hardware.keymaster@4.0-service-qti|ad5f83c00616392d33ead371500ec0fb142eea73
 vendor/lib/hw/android.hardware.keymaster@3.0-impl-qti.so|424aa78da72990552acd98fba35e3c62399d7b54
 vendor/lib/libkeymasterdeviceutils.so|5de829f722aac202b57cc90a25ed0e68dd100911
 vendor/lib/libkeymasterprovision.so|335e15a1fc40e06751daa201d9cded80faed6486
-vendor/lib/libkeymasterutils.so|d124c8e756223c85e0e5cb978ded04d34c268a02
+vendor/lib/libkeymasterutils.so|487e6f9ddd7a82d6c31324c5c5409b2fcf222dce
 vendor/lib/libqcbor.so|943c873f958a74b0caeff6e40b342945ad4031da
 vendor/lib/libqtikeymaster4.so|b3d02e6f169de946025964295d704afc64b89717
 vendor/lib64/hw/android.hardware.keymaster@3.0-impl-qti.so|f569ab512639601cbd1d5bc74b432ad8258bfb22
