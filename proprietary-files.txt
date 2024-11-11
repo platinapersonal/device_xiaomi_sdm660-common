@@ -1071,15 +1071,15 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so|ec187255638bec2bb70c30cc342e4bd2df6
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so|9ae25b750a38274a44c7cb5793d81c23d003c823
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so|3e23f31927702333b0e25aff4d56760063264010
 
-# SCVE - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+# SCVE - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/lib/libscveCommon.so|53c964ff873bf962a28cea07d20ff72cac84e266
 vendor/lib/libscveCommon_stub.so|8d4d5b4a1f4e2fa7d845f6cb2e1c27c9db5d1dd0
 vendor/lib/libscveObjectSegmentation.so|876fcf365fffe69deb82725499e25e2cd25b9b48
 vendor/lib/libscveObjectSegmentation_stub.so|a1ec153331a8e1ec3e07a766cd45ec41838dffa1
 vendor/lib/libscveObjectTracker.so|f62d9c2206bda6b35222a76c35e5be289e6d07fb
 vendor/lib/libscveObjectTracker_stub.so|54fe67907bdc527443bcf89cdb7df55c3b328846
-vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so|97b960199f9fe4ac0849206dc98c1f9572c43793
-vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so|73bee0483741a12a2190524458e13dce62b19fac
+vendor/lib/vendor.qti.hardware.scve.objecttracker@1.0.so|1a32110619778b9a93cbf8226e6206e9f39828eb
+vendor/lib/vendor.qti.hardware.scve.panorama@1.0.so|4c4b5290ddbd9ad458cbe8d1778d57e4def24247
 vendor/lib64/libscveCommon.so|e0cf61bbe8bfd2bc8d46056f6414cc269411204e
 vendor/lib64/libscveCommon_stub.so|9e80b79b9d91edf360371cf4d2898a4bd9627182
 vendor/lib64/libscveObjectSegmentation.so|fbabc31cbbf7824ec5aa08cdd73ad4c37613fe9c
