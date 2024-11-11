@@ -741,27 +741,27 @@ system_ext/etc/permissions/qti_permissions.xml|e6ff4572352b1a4f91b6b9d7cbb1cad99
 system_ext/lib64/libqmi_cci_system.so|e7671c132afeb06a485d200ab6fe4d6bc483d87b
 system_ext/lib64/libqmi_encdec_system.so|a051560804ced9ed91c600e76409896a7fc71b1c
 
-# QMI - from Zebra/helios/helios:13/13-29-10.00-TG-U05-STD-HEL-04/135:user/release-keys
+# QMI - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
 vendor/bin/irsc_util|8550844114cc241b3add7ba994e37779d3411ff6
 vendor/bin/pd-mapper|8d4026d19069a5bc0c210ae603415e2336d6f931
 vendor/etc/seccomp_policy/qti-systemd.policy|2a58603cc00db9a87f3944fee6cfb659e8ac5157
-vendor/lib/libdiag.so|ef7eddac8a3c20f761dc48fe0095636f56a0ee08
-vendor/lib/libdsutils.so|6f061afb3c056b31de73b7532e55ca9428c6ae81
-vendor/lib/libidl.so|792a23d0f83bb80955da75696db0dc09ab02322d
-vendor/lib/libmdmdetect.so|c46bd9df2b671bdcb23505c36378f3caa5a4aed3
+vendor/lib/libdiag.so|a8c388f703599d6e971f3ec30885c05775b7689e
+vendor/lib/libdsutils.so|96f4ced9c243f089c3cb34a1a78db59076929175
+vendor/lib/libidl.so|7cfc4312963e29638dde1815b13c20026e2a42bf
+vendor/lib/libmdmdetect.so|4cbcdd66160619cfc489510cdca9801de56fe35f
 vendor/lib/libminkdescriptor.so|7c7f875624cf6cd4a6385fcc4b0341e1408317fc
-vendor/lib/libqcci_legacy.so|4c99888844303d86354a17a03f3b65991b1e961d
-vendor/lib/libqdi.so|8aec5cd81dec0fe3879abb30785eab71b527a023
-vendor/lib/libqdp.so|0c372fe25d1b0be84432c67e81e85d59992c4cb9
-vendor/lib/libqmi.so|f09c9f3acea25eaf16b9aaf120c6b790c16b7718
-vendor/lib/libqmi_cci.so|f0733d06800efa413c16583760528cb92e399c50
-vendor/lib/libqmi_client_helper.so|4696e6d65639d652d04d9f03245b970173ecc642
-vendor/lib/libqmi_client_qmux.so|4b3c5cc646eaa1a5dff2897840307aec230b70b9
-vendor/lib/libqmi_common_so.so|9e348d14262160899287e1ca90098f12fc26f9df
-vendor/lib/libqmi_csi.so|d8634c065b91eaa986e5e5546c2ce21d0514c507
-vendor/lib/libqmi_encdec.so|593f40d2bc221c605e9a0ddf473043be250861c5
-vendor/lib/libqmi_legacy.so|debbb9b55fae9282741a609b6c10b6b12d779692
-vendor/lib/libqmiservices.so|6b99bca9f92acb99484baf6dccff0f8c24786cb7
+vendor/lib/libqcci_legacy.so|41f32c0e0b7c2ac0a9e05835c11678bf46af8e0b
+vendor/lib/libqdi.so|e0a95a1171407b08c5d2c21449d2215f5d2f18a4
+vendor/lib/libqdp.so|ceb46676f8b670775b5f97a98dbe51bc281fff4d
+vendor/lib/libqmi.so|5cd1aa9e5541763149fae459496f42b80d92fa80
+vendor/lib/libqmi_cci.so|5009d40cf27dacd8ec5860d3e984e5d47ce896a8
+vendor/lib/libqmi_client_helper.so|268e82f176049fbe9db1095db394673a445ce61d
+vendor/lib/libqmi_client_qmux.so|e1009542ac4fb70aace534f2ca14e1055fcdec6e
+vendor/lib/libqmi_common_so.so|4ca64b2ce96100fbf8bca0a49e8e27cd170114de
+vendor/lib/libqmi_csi.so|21bac35199b3ff8b80a09fab32d67f1b9647507c
+vendor/lib/libqmi_encdec.so|379a421c68cd075430f66f789135129b170a60ec
+vendor/lib/libqmi_legacy.so|43d05eba6b251102199a8dd24288e7a6a48e9e9a
+vendor/lib/libqmiservices.so|d157a95d71e9c1fad23bb89988f1dde55fc9f365
 vendor/lib64/libdiag.so|ef93f57884073e9a71bf12384d80db35f4d4f3b5
 vendor/lib64/libdsutils.so|7f7fdd6cf7dfd99ba51273dafdbbc18aa17a6bd4
 vendor/lib64/libidl.so|1066fbbca810e8d4147a8dd40024c64951179051
