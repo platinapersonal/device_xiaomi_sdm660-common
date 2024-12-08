@@ -4,7 +4,9 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
--include vendor/lineage-priv/keys/keys.mk
+# Include our private certificate
+-include vendor/unsa-priv/keys/keys.mk
+-include vendor/unsa-priv/extras/unsa.mk
 
 # Userspace Reboot
 $(call inherit-product, $(SRC_TARGET_DIR)/product/userspace_reboot.mk)
