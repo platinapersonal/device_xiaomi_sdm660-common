@@ -1089,11 +1089,11 @@ vendor/lib64/libscveObjectTracker_stub.so|c8d4ee447045e0bcd4bc9fe101ff3ad5089250
 vendor/lib64/vendor.qti.hardware.scve.objecttracker@1.0.so|20dca87cf73b1e69b1650aff7c5c72f9e0b74fe0
 vendor/lib64/vendor.qti.hardware.scve.panorama@1.0.so|aab964d5e947d461c190aa3841d136dfa0fd9b44
 
-# Sensors - from Zebra/helios/helios:13/13-32-14.00-TG-U02-STD-HEL-04/163:user/release-keys
+# Sensors - from Zebra/helios/helios:13/13-34-31.00-TG-U00-STD-HEL-04/181:user/release-keys
 -system_ext/framework/vendor.qti.hardware.sensorscalibrate-V1.0-java.jar|662159c62a683a2096a73adf1d52b1074c1ab960
 system_ext/lib/vendor.qti.hardware.sensorscalibrate@1.0.so|50e57a9ffcf1483061fef4e48e8a831f61886ba4
 system_ext/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so|b381c166cb399c3fec5163f7128f2de305c8004d
-vendor/bin/sensors.qti|c4b081c422d591df50cf79bf4dea5c8f85639c77
+vendor/bin/sensors.qti|98050e9e28e28bb9a9704deda0131b4692e6d15a
 vendor/lib/libsensor1.so|084f1bb499dfca2b2a23fd19d4ff4c45dab26293
 vendor/lib/libsensor_reg.so|8b1e757e0fbdfd740c6b6513473902d36d2235bc
 vendor/lib/libssc_default_listener.so|ddc720778e4610fd8b14b2bc92d9ec7b37682992
