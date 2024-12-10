@@ -637,9 +637,9 @@ vendor/lib64/libsdm-diag.so|cfcd838d9ca203e70a5e284b36a274e6b479f485
 vendor/lib64/libsdmextension.so|9baf67fa56d5c7bb296bf6c4942c253522638dd2
 vendor/lib64/libtinyxml2_1.so|6d602dfd9df770ee6ecdbe0e9d98b8951dd8483d
 
-# Graphics (Vulkan) - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
-vendor/lib/hw/vulkan.adreno.so|6380e9bfb197f9d0c5343947fcf4951547081e08
-vendor/lib64/hw/vulkan.adreno.so|ddd807adafcfe2de02c12d785317ebf56bc19e2f
+# Graphics (Vulkan) - from Zebra/helios/helios:13/13-34-31.00-TG-U00-STD-HEL-04/181:user/release-keys
+vendor/lib/hw/vulkan.adreno.so|c9243672f1543fddb5313803a841b527055cd4a5
+vendor/lib64/hw/vulkan.adreno.so|6eb971883930dec2bafd209f1c503ac81d77e836
 
 # HotwordEnrollment - from blueline-user 12 SP1A.210812.016.C2 8618562 release-keys
 -product/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk|7161356d39a17b52e4464f598bc106fc88566007
