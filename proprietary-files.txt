@@ -167,11 +167,11 @@ vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so|d73d790098
 vendor/bin/cdsprpcd|4328f165661becf854f4160798604c80646d3b12
 vendor/etc/init/vendor.qti.cdsprpc-service.rc|36772b70216796e8ef19376d9c6a81ee9ffff549
 vendor/lib/libcdsp_default_listener.so|a12223866800e96d70c6aadfaf97f875bbb44741
-vendor/lib/libcdsprpc.so|f695b1309fe3a1394198f63b516bd63e4afea38c
+-vendor/lib/libcdsprpc.so|f695b1309fe3a1394198f63b516bd63e4afea38c
 vendor/lib/libfastrpc_utf_stub.so|cf7abf9e1424590a9ce37d44a9351ad45ef489c6
 vendor/lib/libsysmon_cdsp_skel.so|1ae0c1df309e4aa6782f74a260372efd8709c824
 vendor/lib64/libcdsp_default_listener.so|5e372b9be619e792f9ab5d200f33c02fda73a771
-vendor/lib64/libcdsprpc.so|618b76b55d5f642b6a4f8ef72ca5f73227dbfeeb
+-vendor/lib64/libcdsprpc.so|618b76b55d5f642b6a4f8ef72ca5f73227dbfeeb
 vendor/lib64/libfastrpc_utf_stub.so|5101b6dd3a69b330c7b5ea5aa2f9349ad58edb7d
 vendor/lib64/libsysmon_cdsp_skel.so|b5584502cd9adadc35af392ae74b688810848cd7
 
@@ -574,7 +574,7 @@ vendor/lib/libgpudataproducer.so|57764733e7c69a6a3923da49d6b034d2d3ae18f9
 vendor/lib/libgsl.so|95cf9dad3e226bc31c84f6bb059611696ccbad04
 vendor/lib/libllvm-glnext.so|878ccacec32ab702bcce9dd187c7221d7e00e073
 vendor/lib/libllvm-qcom.so|369cbbc84bdd907d1f9d5cca98f87ad61bcf1ee3
-vendor/lib/libOpenCL.so|a1e2335088cd01efdbc56b27f311afaaad18d87d
+-vendor/lib/libOpenCL.so|a1e2335088cd01efdbc56b27f311afaaad18d87d
 vendor/lib/librs_adreno.so|5bf85e1f671444105323c9f61799c6cf3a0ea075
 vendor/lib/libVkLayer_q3dtools.so|e8bab843e0204fcf957cac672d1f56cda75a2a28
 vendor/lib64/egl/eglSubDriverAndroid.so|7f60db4fb7f5bb4376c7c43e6c0e95fcd4cfe9b5
@@ -591,7 +591,7 @@ vendor/lib64/libgpudataproducer.so|b3f38a332069945b9c5b2610d7cb13d685e10ded
 vendor/lib64/libgsl.so|3d8b35056d9b6e57496a27f9450322f98631eac4
 vendor/lib64/libllvm-glnext.so|febfe0394dd58bc882a2be7986ab240644077229
 vendor/lib64/libllvm-qcom.so|1c9d3822a56d981a6ffff4d876e1e8609681b662
-vendor/lib64/libOpenCL.so|df73d6045873350b3ef49a8eaaa0c6e5fd958a4c
+-vendor/lib64/libOpenCL.so|df73d6045873350b3ef49a8eaaa0c6e5fd958a4c
 vendor/lib64/librs_adreno.so|e1e8c1db5fd06d55498bc235618acb2792174411
 vendor/lib64/libVkLayer_q3dtools.so|95cd16ad9780a660f474d32226c450e99d0396ab
 
