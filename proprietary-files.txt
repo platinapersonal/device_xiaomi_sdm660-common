@@ -490,14 +490,14 @@ vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|1b8d5f58fe0a57906
 vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|6a2f5d2accb924a182e98f1fa229e3a8bc8a161f
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|83663e2fb647a8203dcfb34cf83b62dcc0e890e1
 
-# GPS - from Zebra/helios/helios:13/13-22-18.00-TG-U02-STD-HEL-04/84:user/release-keys
+# GPS - from Zebra/helios/helios:13/13-34-31.00-TG-U00-STD-HEL-04/181:user/release-keys
 vendor/bin/garden_app|2a390b68bf7f5992821e1c61cadd76716ebb4152
 vendor/bin/loc_launcher|cd7c682ee79e0dca4bb53d989940ce371a293f03
 vendor/bin/lowi-server|94a9cd664a8c68e1521c966b3c8ee1196e9d9e44
 vendor/bin/mlid|c24ee2ca447ae849d961d608a05041b856413653
 vendor/bin/slim_daemon|dd6d0da93f6120996aa9a781f620e3b7a713ee0e
-vendor/bin/xtra-daemon|3aecdc70ada417c449271eaa55b84cb4947fc655
-vendor/bin/xtwifi-client|cb207c52ae8fb9c44d85402763ad77493b1ade7f
+vendor/bin/xtra-daemon|79d13addab9129dfdfd77d963d2574b5a1a32ff0
+vendor/bin/xtwifi-client|4311f16dcf4105152ae86c4ed9031fd65b1563f3
 vendor/bin/xtwifi-inet-agent|10f16bc92e7a1e4d790c4234c05807f2fe125212
 vendor/etc/cacert_location.pem|0789bf799c7e45d352a83e2f79ddb0cea86db85b
 vendor/etc/xtra_root_cert.pem|f55a31ec4d9cf8ce2724acadecf00c779f8767db
