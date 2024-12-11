@@ -190,10 +190,6 @@ PRODUCT_PACKAGES += \
     vendor.display.config@2.0 \
     vendor.display.config@2.0.vendor
 
-# DeviceDoze
-PRODUCT_PACKAGES += \
-    DeviceDoze
-
 # Display Device Config
 PRODUCT_COPY_FILES += \
     $(COMMON_PATH)/configs/displayconfig/display_id_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_0.xml
