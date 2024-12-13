@@ -137,9 +137,6 @@ TARGET_KERNEL_HEADER_ARCH := arm64
 TARGET_KERNEL_VERSION := 4.19
 TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm660
 
-SELINUX_IGNORE_NEVERALLOWS := true
-BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
-
 # Enable stats logging in LMKD
 TARGET_LMKD_STATS_LOG := true
 
