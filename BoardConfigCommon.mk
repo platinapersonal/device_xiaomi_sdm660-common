@@ -223,6 +223,8 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(COMMON_PATH)
 PROTOBUF_SUPPORTED := true
 ENABLE_VENDOR_RIL_SERVICE := true
 
+SELINUX_IGNORE_NEVERALLOWS := true
+
 # SELinux
 include device/qcom/sepolicy-legacy-um/SEPolicy.mk
 include device/afterlife/sepolicy/libperfmgr/sepolicy.mk

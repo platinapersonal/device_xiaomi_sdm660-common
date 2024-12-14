@@ -25,3 +25,6 @@ set_prop(vendor_init, vendor_qcom_ims_prop)
 
 allow vendor_init proc:file w_file_perms;
 set_prop(vendor_init, vendor_power_prop)
+
+set_prop(vendor_init, arm64_memtag_prop)
+set_prop(vendor_init, default_prop)

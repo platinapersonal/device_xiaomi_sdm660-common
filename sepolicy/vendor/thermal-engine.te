@@ -9,3 +9,5 @@ dontaudit thermal-engine self:capability dac_override;
 unix_socket_connect(thermal-engine, property, init);
 
 set_prop(thermal-engine, vendor_thermal_prop);
+
+get_prop(thermal-engine, config_prop)
