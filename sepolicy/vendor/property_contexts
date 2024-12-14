@@ -68,6 +68,13 @@ ro.vendor.ril.svlte1x                   u:object_r:vendor_radio_prop:s0
 # Thermal engine
 vendor.thermal.config                   u:object_r:vendor_thermal_prop:s0
 
+# These ro.product.product.* and ro.product.build.* are set by /product/etc/build.prop
+ro.product.product.brand        u:object_r:build_prop:s0
+ro.product.product.device       u:object_r:build_prop:s0
+ro.product.product.manufacturer u:object_r:build_prop:s0
+ro.product.product.model        u:object_r:build_prop:s0
+ro.product.product.name         u:object_r:build_prop:s0
+
 # Wlan
 persist.vendor.iwlan.logging.logcat     u:object_r:vendor_cnd_vendor_prop:s0
 persist.vendor.wigig.npt.enable         u:object_r:vendor_default_prop:s0
