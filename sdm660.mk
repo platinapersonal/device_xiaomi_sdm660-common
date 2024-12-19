@@ -674,8 +674,9 @@ endif
 PRODUCT_PACKAGES += \
     DeviceSettings
 
-# Sign build
--include vendor/lineage-priv/keys/keys.mk
+# Include our private certificate
+-include vendor/unsa-priv/keys/keys.mk
+-include vendor/unsa-priv/extras/unsa.mk
 
 # Vendor Extra
 -include vendor/extra/product.mk
