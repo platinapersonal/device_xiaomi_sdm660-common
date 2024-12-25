@@ -6,8 +6,6 @@
 
 PRODUCT_OTA_ENFORCE_VINTF_KERNEL_REQUIREMENTS := true
 
--include vendor/lineage-priv/keys/keys.mk
-
 # Userspace Reboot
 $(call inherit-product, $(SRC_TARGET_DIR)/product/userspace_reboot.mk)
 
@@ -626,7 +624,7 @@ PRODUCT_SOONG_NAMESPACES += \
     hardware/google/interfaces \
     hardware/google/pixel \
     hardware/xiaomi \
-    hardware/lineage/interfaces/power-libperfmgr \
+    hardware/afterlife/interfaces/power-libperfmgr \
     hardware/qcom-caf/common/libqti-perfd-client
 
 # Speed profile services and wifi-service to reduce RAM and storage
@@ -710,4 +708,3 @@ PRODUCT_PACKAGES += \
 # DeviceSettings
 PRODUCT_PACKAGES += \
     DeviceSettings
-
